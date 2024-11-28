@@ -1,0 +1,32 @@
+body {
+    text-align:center;
+    background-color:rgb(178, 244, 167);
+    font-family: monospace;
+    margin: 0;
+    padding: 0;
+}
+
+.smiley {
+    width: 50px; 
+    height: 50px; 
+    margin-top: 10px;
+}
+
+h1 {
+    text-align: center;
+}
+
+#button-mood {
+    margin-bottom: 12px;
+    background-color: #6c63ff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+#get-tracker {
+    background-color: #ff63c3;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}

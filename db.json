@@ -1,0 +1,16 @@
+{
+  "moodTrackerData": [
+    {
+      "date": "Thu Nov 28 2024 00:57:17 GMT-0800 (Pacific Standard Time)",
+      "mood": "happy"
+    },
+    {
+      "date": "Thu Nov 28 2024 00:57:23 GMT-0800 (Pacific Standard Time)",
+      "mood": "sad"
+    },
+    {
+      "date": "Thu Nov 28 2024 00:57:39 GMT-0800 (Pacific Standard Time)",
+      "mood": "bored"
+    }
+  ]
+}
