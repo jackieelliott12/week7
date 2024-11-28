@@ -29,6 +29,7 @@ app.post('/moodList', (req, res) => {
 
 app.use('/', express.static('public'));
 
+let port = process.env.PORT || 8000;
 app.listen(8000, () => {
     console.log('listening at localhost:8000');
 })
